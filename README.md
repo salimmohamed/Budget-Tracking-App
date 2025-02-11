@@ -1,9 +1,9 @@
-# Budget Tracker CLI
+# Budget Tracker App
 
-This is a simple command-line budget tracker that allows users to:
+This is a simple budget tracker that allows users to:
 
 - Add income transactions
 - Add expense transactions
 - View a summary of total income and expenses
 
-Transactions are stored in a CSV file (`transactions.csv`).
+Transactions are stored in a CSV file.
