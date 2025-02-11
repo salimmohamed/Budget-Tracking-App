@@ -1,6 +1,6 @@
 import csv  # https://docs.python.org/3/library/csv.html
 
-spreadsheet = "transactions.csv" 
+spreadsheet = "transactions.csv"  # file to store transactions
 
 # add transaction function
 def addTransaction(transactionType): 
