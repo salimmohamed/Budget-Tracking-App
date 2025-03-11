@@ -1,0 +1,168 @@
+{
+  "001": [
+    {
+      "timestamp": "2025-03-10T20:15:16.316648",
+      "original": {
+        "id": "001",
+        "type": "income",
+        "description": "Salary",
+        "amount": "25000",
+        "index": 0
+      },
+      "updated": {
+        "amount": "80"
+      }
+    },
+    {
+      "timestamp": "2025-03-10T21:05:45.775685",
+      "original": {
+        "id": "001",
+        "type": "income",
+        "description": "Salary",
+        "amount": "25000",
+        "index": 0,
+        "date": "2025-03-10"
+      },
+      "updated": {
+        "amount": "10000"
+      }
+    },
+    {
+      "timestamp": "2025-03-10T21:05:58.442994",
+      "original": {
+        "id": "001",
+        "type": "income",
+        "description": "Salary",
+        "amount": "10000",
+        "index": 0,
+        "date": "2025-03-10"
+      },
+      "updated": {
+        "date": "2025-04-10"
+      }
+    }
+  ],
+  "005": [
+    {
+      "timestamp": "2025-03-10T20:26:41.173656",
+      "original": {
+        "id": "005",
+        "type": "income",
+        "description": "Ferrari",
+        "amount": "300000",
+        "index": 4
+      },
+      "updated": {
+        "type": "expense"
+      }
+    }
+  ],
+  "002": [
+    {
+      "timestamp": "2025-03-10T20:43:37.421778",
+      "original": {
+        "id": "002",
+        "type": "expense",
+        "description": "Textbook",
+        "amount": "60",
+        "index": 1
+      },
+      "updated": {
+        "amount": "65"
+      }
+    }
+  ],
+  "108": [
+    {
+      "timestamp": "2025-03-10T20:46:44.133133",
+      "original": {
+        "id": "108",
+        "type": "income",
+        "description": "Online Store",
+        "amount": "700",
+        "index": 107
+      },
+      "updated": {
+        "type": "expense"
+      }
+    }
+  ],
+  "115": [
+    {
+      "timestamp": "2025-03-10T22:21:14.913909",
+      "original": {
+        "id": "115",
+        "type": "income",
+        "description": "Salary",
+        "amount": "1200",
+        "index": 114,
+        "date": "2025-03-16"
+      },
+      "updated": {
+        "amount": "12000"
+      }
+    }
+  ],
+  "116": [
+    {
+      "timestamp": "2025-03-10T22:28:13.123829",
+      "original": {
+        "id": "116",
+        "type": "income",
+        "description": "Salary",
+        "amount": "1200",
+        "index": 115,
+        "date": "2025-03-10"
+      },
+      "updated": {
+        "amount": "12000"
+      }
+    }
+  ],
+  "119": [
+    {
+      "timestamp": "2025-03-10T22:38:33.206888",
+      "original": {
+        "id": "119",
+        "type": "expense",
+        "description": "Ferrari",
+        "amount": "120000",
+        "index": 118,
+        "date": "2025-03-10"
+      },
+      "updated": {
+        "description": "Lambo"
+      }
+    },
+    {
+      "timestamp": "2025-03-10T22:46:05.795614",
+      "original": {
+        "id": "119",
+        "type": "income",
+        "description": "Salary",
+        "amount": "1000",
+        "index": 118,
+        "date": "2025-01-01"
+      },
+      "updated": {
+        "amount": "10000"
+      }
+    }
+  ],
+  "121": [
+    {
+      "timestamp": "2025-03-10T22:58:38.888118",
+      "original": {
+        "id": "121",
+        "type": "expense",
+        "description": "Water bottles",
+        "amount": "20",
+        "index": 120,
+        "date": "2025-03-10"
+      },
+      "updated": {
+        "amount": "23.99"
+      }
+    }
+  ]
+}
